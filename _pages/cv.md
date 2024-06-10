@@ -1,7 +1,6 @@
 ---
 permalink: /cv/
 ---
-# CV
 
 ## Work
 
