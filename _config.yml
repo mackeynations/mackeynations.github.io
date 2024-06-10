@@ -1,9 +1,16 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "academic" # the name of your site, e.g. ACME Corp.
-description: "a Jekyll theme for academia"
+title: "Wyatt Mackey" # the name of your site, e.g. ACME Corp.
+description: "Wyatt Mackey's personal website."
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.1"
+minimal_mistakes_skin: "dirt"
 
 plugins:
   - jekyll-include-cache
+    
+
+author:
+  name : "Wyatt Makey"
+  avatar : "assets/IMG_5622.JPG"
+  bio : "Researcher in applied topology and machine learning."
