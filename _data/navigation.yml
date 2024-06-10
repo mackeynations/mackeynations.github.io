@@ -1,0 +1,7 @@
+main:
+  - title: "cv"
+    url: /docs/cv/
+  - title: "papers"
+    url: /docs/papers/
+  - title: "Posts"
+    url: /year-archive/
