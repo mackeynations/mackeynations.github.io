@@ -1,6 +1,7 @@
 ---
 permalink: /papers/
 ---
+# Papers
 
 "Geometric sparsification in recurrent neural networks." **Wyatt Mackey**, Ioannis Schizas, Jared Deighton, David L Boothe, Vasileios Maroulas. arxiv:
 
