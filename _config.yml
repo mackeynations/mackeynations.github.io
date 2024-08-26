@@ -97,4 +97,4 @@ defaults:
       layout: single
       read_time: false
       author_profile: true
-      share: false
+      share: true
