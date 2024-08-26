@@ -52,7 +52,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 collections:
   poems:
-    output: True
+    output: true
     permalink: /:collection/:path/
 
 
