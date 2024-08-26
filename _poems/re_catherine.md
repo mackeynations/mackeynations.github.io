@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "re: Catherine"
+title: re Catherine
 ---
 
 # re: Catherine
