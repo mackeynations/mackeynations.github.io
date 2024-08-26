@@ -3,7 +3,8 @@ main:
     url: /cv/
   - title: "papers"
     url: /papers/
-  - title: "Posts"
-    url: /year-archive/
   - title: "poems"
     url: /poems/
+  - title: "Posts"
+    url: /year-archive/
+
