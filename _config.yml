@@ -95,5 +95,6 @@ defaults:
       type: poems
     values:
       layout: single
+      read_time: false
       author_profile: true
-      share: true
+      share: false
