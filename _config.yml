@@ -94,6 +94,6 @@ defaults:
       path: ""
       type: poems
     values:
-      layout: default
+      layout: single
       author_profile: true
       share: true
