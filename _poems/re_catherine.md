@@ -3,7 +3,6 @@ layout: single
 title: "re: Catherine"
 ---
 
-# re: Catherine
 
 I am generally of the opinion that poems should stand on their own, without prose supplements. However, as the events referenced are two and a quarter centuries gone, I thought some explanation might be in order. This poem is a response to an untitled poem of Pushkin's, "Мне жаль великия жены [...]", reproduced, along with machine translation, below. Pushkin's poem is an elegy (lament, not in the form of elegiac couplets) for Catherine the Great's death. I should emphasize that I have in no way attempted a translation: I have not attempted to mimic the content, sound, or form of Pushkin's original poem. 
 
