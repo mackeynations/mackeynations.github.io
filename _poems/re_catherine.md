@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "re Catherine"
+title: "re: Catherine"
+author: "Wyatt Mackey"
 ---
 
 # re: Catherine
