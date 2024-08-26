@@ -14,10 +14,10 @@ The Russian euphemism defies easy poetic translation into English, requiring som
 
 \*  My Russian friends tell me they have only ever heard this legend from Americans, but I've conducted no true census.
 
-## Re: Catherine
+## re: Catherine
 The winter augurs picked and sorted  
 Between old Ursa’s organs. Her heart  
-By angel paramours escorted  
+By angel paramours transported  
 Above, and Rus left torn apart—  
 She brought respect and land and glory,  
 Enlightenment to Russia’s hoary  
