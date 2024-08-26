@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "re: Catherine"
-description: "a poem"
-excerpt: "a poem"
 ---
 
 # re: Catherine
