@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "re: Catherine"
 author: "Wyatt Mackey"
 ---
@@ -30,7 +30,7 @@ She died to armies reinforce,
 To see her men about their horse—  
 And lying down with them she parted.  
 Now darkness. Russia still awaits  
-More lights--more Catherines--more Greats.  
+More lights---more Catherines---more Greats.  
 
 
 ## Pushkin's poem
