@@ -4,7 +4,7 @@ title: "re: Catherine"
 ---
 
 
-I am generally of the opinion that poems should stand on their own, without prose supplements. However, as the events referenced are two and a quarter centuries gone, I thought some explanation might be in order. This poem is a response to an untitled poem of Pushkin's, "Мне жаль великия жены [...]", reproduced, along with machine translation, below. Pushkin's poem is an elegy (lament, not in the form of elegiac couplets) for Catherine the Great's death. I should emphasize that I have in no way attempted a translation: I have not attempted to mimic the content, sound, or form of Pushkin's original poem. 
+I am generally of the opinion that poems should stand on their own, without prose supplements. As the events referenced are two and a quarter centuries gone, however, I thought some explanation might be in order. This poem is a response to an untitled poem of Pushkin's, "Мне жаль великия жены [...]", reproduced, along with machine translation, below. Pushkin's poem is an elegy (lament, not in the form of elegiac couplets) for Catherine the Great's death. I should emphasize that I have in no way attempted a translation: I have not attempted to mimic the content, sound, or form of Pushkin's original poem. 
 
 [Catherine the Great](https://en.wikipedia.org/wiki/Catherine_the_Great) is one of the most [storied monarchs of European history](https://en.wikipedia.org/wiki/Legends_of_Catherine_the_Great). She was born a minor German princess, who eventually intrigued into marriage with Peter III of Russia. Much more popular than her husband, she and a collection of coconspirators/paramours overthrew her husband and seized control of the Tsardom. She oversaw a wide expansion of the Russian empire, and brought Enlightenment philosophies and ideals to the Russian court. She was particularly (in)famous for her large collection of lovers, particularly younger men, who she rewarded with great power in the empire. Pushkin recounts many of these lover-generals and statesman in his poem, recounting the triumphs of a growing Great Power of Europe. For my part, the glories of conquered land have faded in the last two centuries: indeed, an avaricious Russia eyeing its neighbors leaves an acrid flavor in the modern mouth. I focus instead on Catherine's connection with the Russian serfs, perhaps the greatest hypocrisy of her reign. Despite Catherine's close relationship with many enlightenment philosophes, particularly Voltaire, she refused to end the practice of serfdom in Russia. Per Wikipedia, she reformed the serfdom by instituting bureaucratic organizations to hold land owners accountable for abuse of their serfs. However, this was done at the expense of their right to petition Catherine directly, and goes far short of true justice for the serf population. 
 
@@ -28,7 +28,7 @@ She died to armies reinforce,
 To see her men about their horse—  
 And lying down with them she parted.  
 Now darkness. Russia still awaits  
-More lights---more Catherines---more Greats.  
+A light---a Catherine---a Great.  
 
 
 ## Pushkin's poem
