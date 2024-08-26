@@ -53,7 +53,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 collections:
   poems:
     output: True
-    permalink: /poem/:path/
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -89,3 +89,11 @@ defaults:
       toc_sticky: true
       sidebar:
         nav: "docs"
+  # _poems
+  - scope:
+      path: ""
+      type: poems
+    values:
+      layout: single
+      author_profile: false
+      share: true
