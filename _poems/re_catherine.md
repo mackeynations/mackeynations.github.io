@@ -2,6 +2,7 @@
 layout: default
 title: "re: Catherine"
 description: "a poem"
+excerpt: "a poem"
 ---
 
 # re: Catherine
@@ -12,7 +13,7 @@ I am generally of the opinion that poems should stand on their own, without pros
 
 Pushkin's poem includes more than a touch of humor. While he honors the great Tsar, his metaphor for her death ("Wrote orders, burned fleets, // And died, boarding a ship") is a double entendre in Russian: "boarding a ship" is a Russian euphemism for getting on the toilet. Indeed a popular (and as far as I can tell, likely true) legend of Catherine's death is that she died while on the toilet. This is a minor ignominy compared to the (certainly apocryphal) legend which became popular in America.\* In America, popular legend hold that Catherine died while attempting to have intercourse with a horse, after a suspending rope failed. 
 
-The Russian euphemism defies easy poetic translation into English, requiring some major change of the issued symbolism. It further suffers that dying in the bathroom is simply not scandalous enough, and so is not the popular legend in the English speaking world. However, the quirks of English euphemism offer a rather stupendous option; there is a popular equine euphemism for using the bathroom: "I need to see a man about a horse." If there is a single reason that motivated me to write this poem, it is the opportunity to work with this triple entendre. As noted above, I have otherwise simply written my own poem about Catherine, rather than attempting to translate Pushkin. The form is an [Onegin stanza](https://en.wikipedia.org/wiki/Onegin_stanza), also known as a Pushkin sonnet. 
+The Russian euphemism defies easy poetic translation into English, requiring some major change of the issued symbolism. It further suffers that dying in the bathroom is simply not scandalous enough, and so is not the popular legend in the English speaking world. However, I do think an English adaptation is possible, replacing Pushkin's double entendre with an equine triple entendre! As noted above, I have otherwise simply written my own poem about Catherine, rather than attempting to translate Pushkin. The form is an [Onegin stanza](https://en.wikipedia.org/wiki/Onegin_stanza), also known as a Pushkin sonnet. 
 
 \*  My Russian friends tell me they have only ever heard this legend from Americans, but I've conducted no true census.
 
