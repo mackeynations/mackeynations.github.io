@@ -5,3 +5,5 @@ main:
     url: /papers/
   - title: "Posts"
     url: /year-archive/
+  - title: "poems"
+    url: /poems/

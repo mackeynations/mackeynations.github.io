@@ -3,7 +3,7 @@ title: poems
 layout: collection
 permalink: /poems/
 collection: poems
-entries_layout: grid
+entries_layout: default
 classes: wide
 ---
 
