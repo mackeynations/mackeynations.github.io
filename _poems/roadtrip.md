@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Roadtrip"
+title: "Road trip"
 ---
 
 # Day 1
