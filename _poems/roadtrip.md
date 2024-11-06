@@ -84,7 +84,7 @@ You've almost forgotten the continuous stasis of the first twelve hours of the d
 Here cities rise from bare earth,  
 Hollow mountains yearning, twisting,  
 
-                         naked, 
+                 naked, 
 
 Broken roads spill from crisp skylines  
 In strange comedies xeroxed  
