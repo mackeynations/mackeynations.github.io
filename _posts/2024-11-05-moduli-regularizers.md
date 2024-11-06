@@ -2,7 +2,6 @@
 layout: single
 title: "Moduli Regularization"
 ---
-<script src=https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
 
 This post is a brief, intuitive summary of [my paper](https://arxiv.org/abs/2406.06290), "Geometric sparsification in recurrent neural networks." Academic publications emphasize formal descriptions of methods (for good reason!) in a way that isn't always the most useful for readers attempting to simply learn the ideas being proposed by a paper. My goal in this post is to offer a more friendly description of the ideas in my and my collaborators' paper. The main goals of our paper are:
  - To show that RNNs have natural, intrinsic geometric structure;
