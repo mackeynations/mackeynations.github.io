@@ -12,6 +12,9 @@
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">--- layout: home<span class="Apple-converted-space">  </span>author_profile: true ---</span></p>
+<p class="p1"><span class="s1">---</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>layout: home</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>author_profile: true<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">---</span></p>
 </body>
 </html>
