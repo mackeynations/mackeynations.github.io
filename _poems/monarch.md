@@ -33,7 +33,7 @@ And wishing to become.
 
 I wonder if it hurts, to fly  
 On wings annealed in poison.  
-All I know is the butterfly
+All I know is the butterfly  
          still floats  
    like   wildfire  
       over dusty  

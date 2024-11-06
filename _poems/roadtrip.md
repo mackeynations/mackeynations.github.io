@@ -82,9 +82,9 @@ You've almost forgotten the continuous stasis of the first twelve hours of the d
 
 # Day 3
 Here cities rise from bare earth,  
-Hollow mountains yearning, twisting, 
+Hollow mountains yearning, twisting,  
 
-                            naked, 
+                         naked, 
 
 Broken roads spill from crisp skylines  
 In strange comedies xeroxed  
