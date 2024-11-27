@@ -14,9 +14,10 @@ author:
   name : "Wyatt Mackey"
   avatar : "assets/IMG_5622.JPG"
   bio : "Researcher in applied topology and machine learning. I also write poems sometimes!"
-  social: 
-    - "https://bsky.app/profile/machinations.bsky.social"
-    - "https://github.com/mackeynations"
+  links: 
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/machinations.bsky.social"
 
 # Conversion
 markdown: kramdown
