@@ -12,7 +12,7 @@ To the poetry. [Pushkin's poem](#pushkins-poem) is a typical rhyming poem withou
 
 The Russian euphemism defies easy poetic translation into English, requiring some major change of the issued symbolism. It further suffers that dying in the bathroom doesn't match the scandal of the English speaking world's legend of horse intercourse. However, I do think an English adaptation is possible, replacing Pushkin's double entendre with an equine triple entendre! As noted above, I have otherwise simply written my own poem about Catherine, rather than attempting to translate Pushkin. The form is an [Onegin stanza](https://en.wikipedia.org/wiki/Onegin_stanza), also known as a Pushkin sonnet. 
 
-\*  My Russian friends tell me they have only ever heard this legend from Americans, but I've conducted no true census.
+\*  My Russian friends tell me they have only ever heard this legend from Americans, but I've conducted no true census. *Update 11/27:* I've been informed that this is also the popular story in Greece. 
 
 ## re: Catherine
 The winter augurs picked and sorted  
