@@ -13,7 +13,7 @@ plugins:
 author:
   name : "Wyatt Mackey"
   avatar : "assets/IMG_5622.JPG"
-  bio : "Researcher in applied topology and machine learning. I also write poems sometimes!"
+  bio : "Researcher in applied topology and machine learning. I also write poems sometimes."
   links: 
     - label: "Bluesky"
       icon: "fa-brands fa-bluesky"
