@@ -1,6 +1,6 @@
 ---
 layout: single
-title: “Castings”
+title: "Castings"
 ---
 
 In the third hour of delay  
