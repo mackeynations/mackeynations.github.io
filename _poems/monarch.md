@@ -28,7 +28,7 @@ French kisses plastic wrapped
 And tidily packed in single-portion  
 Sachets. And I am still not happy.  
 Today I am ribbon wrapped lead  
-To water unmoored, ungoaled,  
+To water unmoored 
 And wishing to become.  
 
 I wonder if it hurts, to fly  
