@@ -1,6 +1,6 @@
 ---
 layout: single
-title: “Residual expansion: hyper-connections, virtual width, and attention in the depth direction”
+title: "Residual expansion: hyper-connections, virtual width, and attention in the depth direction"
 use_math: true
 ---
 
