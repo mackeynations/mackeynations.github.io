@@ -9,6 +9,8 @@ permalink: /papers/
 
 "DePICT: Decision-Preserving Interface for Constrained Downstream Tasks," *preprint (2026).* Utkarsh Grover, Ravi Ranjan, Agoritsa Polyzou, **Wyatt Mackey**, J. Morris Chang, Leonardo Bobadilla, Xiaomin Lin.
 
+"BIT-Nav: Brain-Inspired Trajectory Memory for Embodied Navigation," *CVPR 2026: 2nd Workshop on 3D-LLM/VLA (2026).* Rithvik Jonna, Aakash Gurram, Man Namgung, **Wyatt Mackey**, Tinoosh Mohsenin. [arxiv](https://arxiv.org/abs/2606.21398)
+
 "HiCL: Hippocampal-Inspired Continual Learning," *Association for the Advancement of Artificial Intelligence (AAAI) (2026).* Kushal Kapoor, **Wyatt Mackey**, Yiannis Aloimonos, Xiaomin Lin. [arxiv](http://arxiv.org/abs/2508.16651)
 
 "Higher-order information for self-supervised place cell learning," *Annals of Applied Statistics (2026).* Jared Deighton, **Wyatt Mackey**, Ioannis Schizas, David L. Boothe Jr., Vasileios Maroulas. [arxiv](https://arxiv.org/abs/2407.06195)
