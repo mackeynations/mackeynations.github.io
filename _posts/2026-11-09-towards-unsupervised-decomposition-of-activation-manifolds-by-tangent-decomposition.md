@@ -8,7 +8,7 @@ In [our last paper](https://github.com/mackeynations/tangent-lenses/blob/main/ta
 
 This essay discusses some early results we've had in this direction. My primary purpose is to collect and share ideas with collaborators—but the results are also promising, and hopefully interesting if you've ended up here! While we look forward to putting these and similar discussions in a paper, this note is more of a casual discussion of an ongoing project than a formal write-up. If you want to skip the surprisingly large amount of math, check out four two dimensional spaces we isolated in Llama's residual stream in Figure 1—we both recover known multidimensional structures, and discover what we believe to be new ones—or view the full gallery of detected latents [here](https://mackeynations.github.io/assets/gallery.html)!
 
-![Top activating tokens on four multidimensional spaces in Llama-3-3.2B's activations](assets/exp3_4_llama3b_highlight_4panel.pdf)
+![Top activating tokens on four multidimensional spaces in Llama-3-3.2B's activations](/assets/exp3_4_llama3b_highlight_4panel.pdf)
 **Figure 1:** Top activating tokens on four multidimensional spaces in Llama-3-3.2B's activations, isolated by analyzing tangent geometry on components with high normal signature, following the method described in [Everything everywhere all at once](#everything-everywhere-all-at-once). See the full gallery [here](https://mackeynations.github.io/assets/gallery.html).
 
 
